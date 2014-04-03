@@ -1,0 +1,12 @@
+{
+  "name": "language-pogo",
+  "version": "0.0.1",
+  "description": "PogoScript language support for Atom editor",
+  "repository": "https://github.com/atom/language-pogo",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+  }
+}

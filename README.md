@@ -1,3 +1,3 @@
 # language-pogo
 
-PogoScript language support for the [Atom.io](http://atom.io) editor
+[PogoScript](http://pogoscript.org) language support for the [Atom](http://atom.io) editor
